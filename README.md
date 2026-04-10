@@ -9,7 +9,7 @@ A simple and intuitive web-based signature capture tool built with HTML, CSS, an
 - 📱 Responsive design for mobile and desktop
 
 ## Live Demo
-🌐 Check out the live demo: [https://iam269.github.io/Signature-Pad/](https://iam269.github.io/Signature-Pad/)
+🌐 Check out the live demo: [https://itsiamdev.github.io/Signature-Pad/](https://itsiamdev.github.io/Signature-Pad/)
 
 ## How to Use
 1. Open the `index.html` file in your web browser.
